@@ -1,4 +1,4 @@
-package com.kxqin.luckygame
+package com.kidd.luckygame
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

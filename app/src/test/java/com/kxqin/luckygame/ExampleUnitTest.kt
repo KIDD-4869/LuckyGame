@@ -1,4 +1,4 @@
-package com.kxqin.luckygame
+package com.kidd.luckygame
 
 import org.junit.Test
 
